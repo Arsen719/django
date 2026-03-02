@@ -1,0 +1,8 @@
+recursive-include django_polls/static *
+recursive-include django_polls/templates *intersphinx_mapping = {
+    # ...
+    "django": (
+        "https://docs.djangoproject.com/en/stable/",
+        None,
+    ),
+}
